@@ -25,8 +25,12 @@ client_scripts {
 }
 
 dependencies {
+    'oxmysql',
+    'PolyZone',
     'qb-core',
-    'qb-interior',
     'qb-clothing',
+    'qb-houses',
+    'qb-interior',
     'qb-weathersync',
+    'qb-spawn',
 }
